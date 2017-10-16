@@ -7,7 +7,7 @@ export default {
   listenerColor: '#D1345B',
   shapeSize: 20, // px
   minTempo: 70, // bpm
-  maxTempo: 140, // bpmn
+  maxTempo: 160, // bpmn
   initialTempo: 120, // bpm
   initialTimeSignature: '8',
   timeSignatures: [
